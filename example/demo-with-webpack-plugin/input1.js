@@ -1,4 +1,3 @@
-// 添加了一行注释
 import increaser from './input2'
 var num = 1
 var str = 'foo'
