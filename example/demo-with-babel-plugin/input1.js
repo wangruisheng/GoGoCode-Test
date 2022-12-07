@@ -1,4 +1,4 @@
-// 添加了一行注释
+// 添加了一行注释,仓库b进行改变
 import increaser from './input2'
 var num = 1
 var str = 'foo'
